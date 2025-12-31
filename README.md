@@ -1,2 +1,2 @@
 # BarsikInstallerTest
-Тестовая программа для BarsikInstaller.
+Это **тестовая** программа для *BarsikInstaller*.
